@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\source\\repos\\Practic\\Practic.csproj": {}
+    "C:\\Users\\User\\source\\repos\\test\\Practic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\source\\repos\\Practic\\Practic.csproj": {
+    "C:\\Users\\User\\source\\repos\\test\\Practic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\Practic\\Practic.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\test\\Practic.csproj",
         "projectName": "Practic",
-        "projectPath": "C:\\Users\\Пользователь\\source\\repos\\Practic\\Practic.csproj",
-        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\source\\repos\\Practic\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\test\\Practic.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
