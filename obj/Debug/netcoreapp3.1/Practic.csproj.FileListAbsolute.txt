@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Practic\bin\Debug\netcoreapp3.1\Practic.exe
+C:\Users\Пользователь\source\repos\Practic\bin\Debug\netcoreapp3.1\Practic.deps.json
+C:\Users\Пользователь\source\repos\Practic\bin\Debug\netcoreapp3.1\Practic.runtimeconfig.json
+C:\Users\Пользователь\source\repos\Practic\bin\Debug\netcoreapp3.1\Practic.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\Practic\bin\Debug\netcoreapp3.1\Practic.dll
+C:\Users\Пользователь\source\repos\Practic\bin\Debug\netcoreapp3.1\Practic.pdb
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.dll
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.pdb
+C:\Users\Пользователь\source\repos\Practic\obj\Debug\netcoreapp3.1\Practic.genruntimeconfig.cache
