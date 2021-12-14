@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
 // Test commit from studio
 namespace Practic
 {
+
 	class Program
 	{
 		static void Main(string[] args)
@@ -14,8 +16,11 @@ namespace Practic
 		{
 			public MyClass()
             {
+				Dictionary<int, string> country = new Dictionary<int, string>();
+				country.Add(1, "Russia");
+				country.Add(2, "USA");
 				
-            }
+			}
 
 			public bool IsLuckyTicket(string ticket)
 			{
