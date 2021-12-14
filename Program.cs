@@ -13,8 +13,7 @@ namespace Practic
 		{
 			public bool IsLuckyTicket(string ticket)
 			{
-				int a;
-				a = 5;
+				return false;
 			}
 		}
 	}
