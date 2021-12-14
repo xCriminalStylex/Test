@@ -2,6 +2,7 @@
 // Test commit from studio
 namespace Practic
 {
+
 	class Program
 	{
 		static void Main(string[] args)
